@@ -18,15 +18,18 @@ The customer sharing the best practice in any given meeting will determine the t
 
 (Session Recordings and Presentation)
 
-1.
-2.
-3.
+1. Ford 
+2. XYZ....
+3. Comcast 
 
 
 ## Next Sessions
-**Friday, June 30 12:30PM Eastern / 9:30AM Pacific** _Smoke tests, load testing, & canaries_
-**Friday, July 7 12:30PM Eastern / 9:30AM Pacific** _PCF metrics, events, Logregator, and syslog_  
-**Friday July 14 12:30PM Eastern / 9:30AM Pacific** _Concourse pipelines for PCF operations* _
+
+**Friday, June 30: 12:30PM Eastern / 9:30AM Pacific** _Smoke tests, load testing, & canaries_
+
+**Friday, July 7:  12:30PM Eastern / 9:30AM Pacific** _PCF metrics, events, Logregator, and syslog_  
+
+**Friday July 14: 12:30PM Eastern / 9:30AM Pacific**  _Concourse pipelines for PCF operations_
 
 ## Contact
 If you would like to be invited for the PCF-VUG please contact Dormain Drewitz <ddrewitz@pivotal.io> or Gregory Chase <gchase@pivotal.io>
