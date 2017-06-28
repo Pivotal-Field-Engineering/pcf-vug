@@ -1,6 +1,6 @@
 # Welcome to Pivotal Cloud Foundry Virtual User Group
 
-The Pivotal Cloud Foundry Virtual User Group is a forum for PCF customers and users of Pivotal Cloud Foundry to learn and share with your peers topics around usage of Pivotal Cloud Foundry. The user group meetings is a channel of engagement between customers.
+The Pivotal Cloud Foundry Virtual User Group is a forum for PCF customers and users of Pivotal Cloud Foundry to learn and share with your peers topics around usage of Pivotal Cloud Foundry. The user group meeting is a channel of engagement among customers.
 
 The customer sharing the best practice in any given meeting will determine the topic - it’s their presentation. This list is just a set of prompts to help members determine topics that would be relevant.
 
