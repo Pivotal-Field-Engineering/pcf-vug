@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Welcome to Pivotal Cloud Foundry Virtual User Group
 
-You can use the [editor on GitHub](https://github.com/Pivotal-Field-Engineering/pcf-vug/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Pivotal Cloud Foundry Virtual User Group is a forum for PCF customers and users of Pivotal Cloud Foundry to learn and share with your peers topics around usage of Pivotal Cloud Foundry. The user group meetings is a channel of engagement between customers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The customer sharing the best practice in any given meeting will determine the topic - it’s their presentation. This list is just a set of prompts to help members determine topics that would be relevant.
 
-### Markdown
+## Potential Topics
+- Platform Implementation
+- Multi Cloud/Multi Site
+- Organizational Considerations
+- DevOps, Self Provisioning, Agile, CI/CD
+- Legacy Integration/Migration
+- Cost Savings/ROI
+- Roadmap Priorities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Previous Sessions
 
-# Header 1
-## Header 2
-### Header 3
+(Session Recordings and Presentation)
 
-- Bulleted
-- List
+1.
+2.
+3.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Next Sessions
+**Friday, June 30 12:30PM Eastern / 9:30AM Pacific** _Smoke tests, load testing, & canaries_
+**Friday, July 7 12:30PM Eastern / 9:30AM Pacific** _PCF metrics, events, Logregator, and syslog_  
+**Friday July 14 12:30PM Eastern / 9:30AM Pacific** _Concourse pipelines for PCF operations* _
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pivotal-Field-Engineering/pcf-vug/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+If you would like to be invited for the PCF-VUG please contact Dormain Drewitz <ddrewitz@pivotal.io> or Gregory Chase <gchase@pivotal.io>
